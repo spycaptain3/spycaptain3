@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Gupta</h1>
-<h3 align="center">Code Nut and sponge student of CSE with specialization in Cyber Security at SRMIST Ghaziabad Delhi NCR Campus. Running on the way to improving myself, and Finding a way to make our world more techie.</h3>
+<h3 align="center">Running on the way to improving myself, and finding a way to make our world more techie.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spycaptain3&label=Profile%20views&color=0e75b6&style=flat" alt="spycaptain3" /> </p>
 
